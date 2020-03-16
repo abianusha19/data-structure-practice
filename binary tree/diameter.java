@@ -14,7 +14,6 @@ class bst
 {
 node root=null;
 int ans=0;
-static boolean v1=false,v2=false;
 void insert(char[] s,int v)
 {
 node newnode=new node(v);
